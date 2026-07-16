@@ -1,0 +1,21 @@
+{
+  "classification": {
+    "accuracy": 0.9824561403508771,
+    "f1": 0.9861111111111112,
+    "test_rows": 114
+  },
+  "regression": {
+    "rmse": 54.028538104877185,
+    "mae": 43.81939331203024,
+    "r2": 0.4490375005647086,
+    "test_rows": 89
+  },
+  "forecasting": {
+    "rmse": 6.118213585277987,
+    "mae": 5.0772674314646835,
+    "test_rows": 83
+  },
+  "configuration": {
+    "random_state": 42
+  }
+}
