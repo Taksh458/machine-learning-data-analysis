@@ -1,5 +1,5 @@
 # Machine Learning and Data Analysis
-
+[![Python tests](https://github.com/Taksh458/machine-learning-data-analysis/actions/workflows/tests.yml/badge.svg)](https://github.com/Taksh458/machine-learning-data-analysis/actions/workflows/tests.yml)
 A reproducible Python project demonstrating three common analytical workflows:
 
 1. Breast-cancer classification
